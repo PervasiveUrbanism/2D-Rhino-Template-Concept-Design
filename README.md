@@ -9,11 +9,9 @@ This file is designed to assist you in setting up a **2D Rhino file** for your a
 
 The file includes a predefined set of layers, dimension and text styles, as well as A3 frames to make exporting to Illustrator easier. The table with scale factors is intended to help you set the correct scale
 
-
-
 ## And where shall i put it?
 
-Save it in the folder with your template files. You can find the path here: 
+Save it in the folder with your template files. You can find the path here:
 
 ![Settings](Settings.png)
 
@@ -23,7 +21,7 @@ The template includes a **simplified set of layers** that you can either use as 
 
 Over time, I've found that using a **naming convention** that groups layers is helpful. I typically name layers using a series of keywords that move from general to specific. For example: 
 
-* Hatch Wall 
+* Hatch Wall
 * Lines Elevation Thin
 * Lines Cut
 
